@@ -71,6 +71,10 @@ File contents:
 This is the initial content written to the file.
 This is the appended content.
 
+OUTPUT
+--------
+
+<img width="1918" height="1075" alt="Image" src="https://github.com/user-attachments/assets/978dc80f-ca08-4e97-b376-e3a24768e7f9" />
 
 
 
